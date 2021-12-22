@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 26 Nov 2021 14:19:22 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[New Covid variant: Javid says UK must act quickly over public health risk]]></title>
+            <description><![CDATA[The health secretary says southern African travel restrictions were imposed due to a "substantial risk" to health.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-59428398?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-59428398</guid>
+            <pubDate>Fri, 26 Nov 2021 13:48:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel migrants: Emmanuel Macron and Boris Johnson clash over crisis]]></title>
+            <description><![CDATA[The French president accuses the UK prime minister of not being serious as diplomatic row escalates.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-59428311?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-59428311</guid>
+            <pubDate>Fri, 26 Nov 2021 13:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ava White: Liverpool murder arrests after girl, 12, dies]]></title>
+            <description><![CDATA[Four boys, aged between 13 and 15, are arrested on suspicion of murdering Ava White in Liverpool.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-59427833?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-merseyside-59427833</guid>
+            <pubDate>Fri, 26 Nov 2021 14:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storm Arwen: Red wind warning for parts of UK]]></title>
+            <description><![CDATA[The red alert - the highest level, meaning lives could be at risk - comes in from 15:00 GMT.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-59419772?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-tyne-59419772</guid>
+            <pubDate>Fri, 26 Nov 2021 13:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Friday tipped to hit strongest ever sales]]></title>
+            <description><![CDATA[Analysts say this year's sale will be the biggest ever, but retailers won't offer as many discounts.]]></description>
+            <link>https://www.bbc.co.uk/news/business-59409507?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-59409507</guid>
+            <pubDate>Fri, 26 Nov 2021 13:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bobbi-Anne McLeod: Man in court charged with murder]]></title>
+            <description><![CDATA[Cody Ackland, 24, from Plymouth, appeared in court charged with the murder of the 18-year-old.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-59427722?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-59427722</guid>
+            <pubDate>Fri, 26 Nov 2021 12:19:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Southampton FC left coach 'free' to abuse boys]]></title>
+            <description><![CDATA[A report finds Southampton Football Club "failed to put the safety and welfare of boys first".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-59417390?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-hampshire-59417390</guid>
+            <pubDate>Fri, 26 Nov 2021 10:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK car output suffers worst October for 65 years]]></title>
+            <description><![CDATA[Chip shortages lead to production dropping to the lowest level recorded for October since 1956.]]></description>
+            <link>https://www.bbc.co.uk/news/business-59428936?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-59428936</guid>
+            <pubDate>Fri, 26 Nov 2021 12:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gracie Spinks: Officers face misconduct probe after woman's death]]></title>
+            <description><![CDATA[A stalking complaint was made and a bag of weapons was discovered before Gracie Spinks died.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-59430825?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-59430825</guid>
+            <pubDate>Fri, 26 Nov 2021 12:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extinction Rebellion activists target UK Amazon distribution centres]]></title>
+            <description><![CDATA[Extinction Rebellion has targeted 15 sites in the UK on the retail giant's busiest day of the year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-59429844?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-59429844</guid>
+            <pubDate>Fri, 26 Nov 2021 13:28:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Motsi Mabuse to miss Strictly Come Dancing after Covid contact]]></title>
+            <description><![CDATA[The judge will be replaced by Cynthia Erivo this weekend after being contacted by NHS Test and Trace.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-59433988?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-59433988</guid>
+            <pubDate>Fri, 26 Nov 2021 13:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiz of the week: Why did Boris Johnson like Peppa Pig World so much?]]></title>
+            <description><![CDATA[How closely have you been paying attention to what's been going on during the past seven days?]]></description>
+            <link>https://www.bbc.co.uk/news/world-59419382?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-59419382</guid>
+            <pubDate>Thu, 25 Nov 2021 17:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mobile phone museum celebrates ugly and iconic phones]]></title>
+            <description><![CDATA[A new museum showcasing more than 2,000 retro mobile phones launches online.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-59432930?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-59432930</guid>
+            <pubDate>Fri, 26 Nov 2021 12:32:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Commons Speaker ruffles Boris' feathers on Newscast]]></title>
+            <description><![CDATA[Sir Lindsay Hoyle brought his pet parrot Boris to a BBC Newscast interview and the bird took off.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-59427341?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-59427341</guid>
+            <pubDate>Fri, 26 Nov 2021 07:58:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nile Rodgers is auctioning guitars for talented teenagers]]></title>
+            <description><![CDATA[The music producer and guitarist hopes to raise money to help talented teenagers.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-59333291?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/entertainment-arts-59333291</guid>
+            <pubDate>Fri, 26 Nov 2021 00:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Browns of Chester: How a city is coping without Debenhams]]></title>
+            <description><![CDATA[Browns of Chester served the city for 241 years before it closed when the chain collapsed in May.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-merseyside-59386593?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-merseyside-59386593</guid>
+            <pubDate>Fri, 26 Nov 2021 06:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dramatic rescue of 300 from migrant boat in Italy]]></title>
+            <description><![CDATA[Some people were already in the water when the Italian coastguard reached them off Lampedusa Island.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-59421913?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-59421913</guid>
+            <pubDate>Thu, 25 Nov 2021 23:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Egypt: Grand opening for Luxor's 'Avenue of the Sphinxes']]></title>
+            <description><![CDATA[The ancient walkway, connecting two of the Egyptian city's greatest temples, took decades to excavate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-59424084?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-59424084</guid>
+            <pubDate>Thu, 25 Nov 2021 23:12:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Friday: 'Harder to give big, headline discounts']]></title>
+            <description><![CDATA[Steve Finch of toy retailer bopster, explains the pressures his firm is under for Black Friday this year.]]></description>
+            <link>https://www.bbc.co.uk/news/business-59422593?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-59422593</guid>
+            <pubDate>Fri, 26 Nov 2021 00:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Covid variant: Pride and punishment follows South Africa discovery]]></title>
+            <description><![CDATA[South Africans feel they are paying the price for their ability to monitor new Covid variants.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-59432579?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-africa-59432579</guid>
+            <pubDate>Fri, 26 Nov 2021 13:13:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The ‘cocaine collectors’ retrieving smuggled drugs in Rotterdam]]></title>
+            <description><![CDATA[Young criminals are risking their lives to retrieve drugs smuggled into the Netherlands amongst freight arriving from Latin America.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-59379474?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-59379474</guid>
+            <pubDate>Fri, 26 Nov 2021 01:25:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cambridge sculpture makes a stand on culture wars]]></title>
+            <description><![CDATA[Leading academics see Paulo Freire as a symbol of "tolerance and dialogue" amid tensions on campuses.]]></description>
+            <link>https://www.bbc.co.uk/news/education-59406106?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/education-59406106</guid>
+            <pubDate>Fri, 26 Nov 2021 01:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ghosn affair: The forgotten man in the Nissan scandal]]></title>
+            <description><![CDATA[Wife of a former Nissan boss on trial in Japan says he is a forgotten victim of the Carlos Ghosn affair.]]></description>
+            <link>https://www.bbc.co.uk/news/business-59420568?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-59420568</guid>
+            <pubDate>Fri, 26 Nov 2021 00:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Upcoming Moon missions spur the search for new spacesuits]]></title>
+            <description><![CDATA[Nasa has asked the private sector to design new spacesuits that can be used on the Moon.]]></description>
+            <link>https://www.bbc.co.uk/news/business-59231236?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-59231236</guid>
+            <pubDate>Fri, 26 Nov 2021 00:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rahul Dravid: Indian cricket's unassuming maestro]]></title>
+            <description><![CDATA[The return of Indian cricket's golden boy as coach will start a new era, writes columnist Ayaz Memon.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-59371757?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-india-59371757</guid>
+            <pubDate>Fri, 26 Nov 2021 00:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand fight back against India in first Test]]></title>
+            <description><![CDATA[Seamer Tim Southee took 5-69 and openers Will Young and Tom Latham hit unbeaten half-centuries as New Zealand fought back on day two of the first Test against India in Kanpur.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/59430049?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/59430049</guid>
+            <pubDate>Fri, 26 Nov 2021 11:13:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NFL Thanksgiving: Umpire trips as Tony Pollard runs in 100-yard touchdown for Dallas Cowboys]]></title>
+            <description><![CDATA[Tony Pollard runs in a tremendous 100-yard touchdown while the umpire trips on the sidelines in the Dallas Cowboys' 36-33 loss to the Las Vegas Raiders.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/american-football/59430480?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/american-football/59430480</guid>
+            <pubDate>Fri, 26 Nov 2021 10:16:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['One of the greatest thinkers in football' - what can Man Utd expect from Rangnick?]]></title>
+            <description><![CDATA[Manchester United are close to appointing Ralf Rangnick as interim manager, but what will the German bring to Old Trafford?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/59424305?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/59424305</guid>
+            <pubDate>Fri, 26 Nov 2021 00:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ole Gunnar Solskjaer: Marcus Rashford says sacked Manchester United boss 'deserves huge respect']]></title>
+            <description><![CDATA[Manchester United forward Marcus Rashford says the club's players still respect former boss Ole Gunnar Solskjaer, who was sacked from his job at Old Trafford last weekend.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/59425045?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/av/football/59425045</guid>
+            <pubDate>Thu, 25 Nov 2021 21:11:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the Covid variants and will vaccines still work?]]></title>
+            <description><![CDATA[A new version of Covid looks different to the virus vaccines were designed to fight.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Fri, 26 Nov 2021 11:31:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The African countries on the red list - and other UK travel rules]]></title>
+            <description><![CDATA[There are new restrictions on travellers returning from several southern African countries.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Fri, 26 Nov 2021 10:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms of coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Wed, 06 Oct 2021 10:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How do I get a lateral flow or PCR test?]]></title>
+            <description><![CDATA[People in England are being advised to test for Covid before going to crowded places this winter.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Tue, 23 Nov 2021 15:44:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Covid variant: Where do variants come from?]]></title>
+            <description><![CDATA[New Covid-19 variants keep appearing – and their mutations are very different to the comic book kind.]]></description>
+            <link>https://www.bbc.co.uk/news/health-56286744?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-56286744</guid>
+            <pubDate>Fri, 26 Nov 2021 09:09:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Who can have a booster jab and how can you get one?]]></title>
+            <description><![CDATA[All over-40s will be offered a booster vaccination, and pregnant women are urged to get jabbed.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Mon, 22 Nov 2021 10:29:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Thu, 25 Nov 2021 17:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid passports: How do I get one and when will I need it?]]></title>
+            <description><![CDATA[Like Scotland and Wales, Northern Ireland will introduce a vaccine passport for entry to large events.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55718553?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-55718553</guid>
+            <pubDate>Tue, 23 Nov 2021 15:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Are we heading for a UK lockdown?]]></title>
+            <description><![CDATA[As soaring cases lead European countries to reintroduce Covid restrictions, what does it mean for the UK?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Tue, 23 Nov 2021 13:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Should I be working from home or going back to the office?]]></title>
+            <description><![CDATA[Northern Ireland ministers have urged people to keep working from home wherever possible.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Wed, 24 Nov 2021 15:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When can teenagers get a second dose?]]></title>
+            <description><![CDATA[All 16 and 17 year-olds in the UK can now have a second dose 12 weeks after the first.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57273875?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-57273875</guid>
+            <pubDate>Wed, 17 Nov 2021 16:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can I get a free flu jab?]]></title>
+            <description><![CDATA[Health officials are urging millions of people to get a free flu vaccination this winter.]]></description>
+            <link>https://www.bbc.co.uk/news/health-53847025?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-53847025</guid>
+            <pubDate>Fri, 08 Oct 2021 11:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid map: Coronavirus cases, deaths, vaccinations by country]]></title>
+            <description><![CDATA[Key maps and charts explaining how the virus has spread around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Mon, 22 Nov 2021 10:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many people are vaccinated so far?]]></title>
+            <description><![CDATA[A look at the progress made in vaccinating the country's population, as more than 50 million people have received at least one dose.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Mon, 22 Nov 2021 16:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the rules and guidance for face masks and coverings?]]></title>
+            <description><![CDATA[Face coverings could become a legal requirement in England again if the NHS struggles this winter.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Tue, 02 Nov 2021 16:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel tragedy: Scramble to identify dead off Calais]]></title>
+            <description><![CDATA[At least 27 people died trying to reach the UK by boat. Officials are trying to find their identities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-59416022?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-59416022</guid>
+            <pubDate>Thu, 25 Nov 2021 17:29:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why do migrants leave France and try to cross the English Channel?]]></title>
+            <description><![CDATA[Rising numbers of migrants are trying to cross the English Channel in small boats.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53699511?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-53699511</guid>
+            <pubDate>Thu, 25 Nov 2021 15:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel migrants: Why politics is dominating the debate on migrants]]></title>
+            <description><![CDATA[UK-French rivalry is making a common solution difficult, says the BBC's Europe Editor Katya Adler.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-59425542?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-59425542</guid>
+            <pubDate>Fri, 26 Nov 2021 00:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel deaths: What do we know so far?]]></title>
+            <description><![CDATA[There are many unanswered questions following the deaths of 27 people. Here is what we know so far.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-59406788?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-59406788</guid>
+            <pubDate>Thu, 25 Nov 2021 12:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Iraqi Kurds risk their lives to reach the West]]></title>
+            <description><![CDATA[What drives people to make the perilous journey, which for many has ended in death?]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-59419953?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-middle-east-59419953</guid>
+            <pubDate>Fri, 26 Nov 2021 10:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel migrants: What happens to people crossing to the UK?]]></title>
+            <description><![CDATA[Record numbers of migrants have been crossing the English Channel in boats in recent months.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53734793?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-53734793</guid>
+            <pubDate>Fri, 26 Nov 2021 10:25:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CEO Secrets: From Ordsall poverty to being a billionaire]]></title>
+            <description><![CDATA[Peter Done, co-founder of Betfred and CEO of Peninsula, shares his business advice for CEO Secrets.]]></description>
+            <link>https://www.bbc.co.uk/news/business-59299051?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-59299051</guid>
+            <pubDate>Wed, 24 Nov 2021 00:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New mothers who died of herpes could have been infected by one surgeon]]></title>
+            <description><![CDATA[Two mothers who died of herpes after ​having Caesareans could have been infected by a single surgeon, the BBC has found. ]]></description>
+            <link>https://www.bbc.co.uk/news/health-59338721?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-59338721</guid>
+            <pubDate>Mon, 22 Nov 2021 09:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evil Corp: 'My hunt for the world's most wanted hackers']]></title>
+            <description><![CDATA[The BBC’s Joe Tidy goes to Russia in search of men on the FBI’s cyber most wanted list.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-59297187?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-59297187</guid>
+            <pubDate>Wed, 17 Nov 2021 00:02:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

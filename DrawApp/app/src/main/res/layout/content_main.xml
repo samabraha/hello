@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/app_bar_main">
+
+    <Button
+        android:id="@+id/btnChoiceA"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:text="Choice - A"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/textView2"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <Button
+        android:id="@+id/btnChoiceB"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Choice - B"
+        app:layout_constraintEnd_toEndOf="@+id/btnChoiceA"
+        app:layout_constraintStart_toStartOf="@+id/btnChoiceA"
+        app:layout_constraintTop_toBottomOf="@+id/btnChoiceA" />
+
+    <Button
+        android:id="@+id/btnChoiceC"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Choice - C"
+        app:layout_constraintEnd_toEndOf="@+id/btnChoiceB"
+        app:layout_constraintStart_toStartOf="@+id/btnChoiceB"
+        app:layout_constraintTop_toBottomOf="@+id/btnChoiceB" />
+
+    <Button
+        android:id="@+id/btnChoiceE"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Choice - E"
+        app:layout_constraintEnd_toEndOf="@+id/btnChoiceD"
+        app:layout_constraintStart_toStartOf="@+id/btnChoiceD"
+        app:layout_constraintTop_toBottomOf="@+id/btnChoiceD" />
+
+    <Button
+        android:id="@+id/btnChoiceD"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Choice - D"
+        app:layout_constraintEnd_toEndOf="@+id/btnChoiceC"
+        app:layout_constraintStart_toStartOf="@+id/btnChoiceC"
+        app:layout_constraintTop_toBottomOf="@+id/btnChoiceC" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="137dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="Question?"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

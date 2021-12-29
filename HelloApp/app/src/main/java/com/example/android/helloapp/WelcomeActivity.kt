@@ -7,6 +7,7 @@ import android.view.MenuItem
 import android.widget.ArrayAdapter
 import com.example.android.helloapp.astro.AstroRequest
 import com.example.android.helloapp.databinding.ActivityWelcomeBinding
+import com.example.android.helloapp.db.NamesDAO
 import com.google.android.material.snackbar.Snackbar
 import org.jetbrains.anko.appcompat.v7.actionBarContextView
 import org.jetbrains.anko.doAsync

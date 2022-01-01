@@ -13,12 +13,17 @@ class ViewHolder(v: View) {
     val feedDate: TextView = v.findViewById(R.id.feedDate)
 }
 
+private const val TAG = "FeedAdapter"
 
-class FeedAdapter(context:Context, private val resource:Int, private val feedList:List<FeedEntry>)
+class FeedAdapter(context:Context, private val resource : Int, private var feedList : List<FeedEntry>)
     : ArrayAdapter<FeedEntry>(context, resource) {
 
-    private val TAG = "FeedAdapter"
     private val inflater = LayoutInflater.from(context);
+
+    fun setFeedList(feedList: List<FeedEntry>) {
+        this.feedList = feedList
+        notifyDataSetChanged()
+    }
 
     override fun getCount(): Int {
 //        Log.d(TAG, "getCount() called")

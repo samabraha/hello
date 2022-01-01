@@ -6,7 +6,6 @@ import android.view.View
 import android.widget.Button
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
-import androidx.lifecycle.Observer
 import kotlinx.android.synthetic.main.activity_main.*
 
 //private const val STATE_PENDING_OPERATION = "PendingOperation"
@@ -61,9 +60,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-
-
-//
 //    override fun onSaveInstanceState(outState: Bundle) {
 //        super.onSaveInstanceState(outState)
 //        if (operand1 != null) {
@@ -85,4 +81,3 @@ class MainActivity : AppCompatActivity() {
 //        operation.text = pendingOperation
 //    }
 }
-
